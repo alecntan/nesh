@@ -1,2 +1,2 @@
-# neo
-NES Emulator Written in Go
+# nesh
+NES emulator written in C#
